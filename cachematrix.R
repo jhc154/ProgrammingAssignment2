@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do.
-
 ## Given the example code originating from 'makeVector' change the types
 # from numeric to matrix; change value names where approps. 
 # Set/Get the value of the matrix; then use solve()  to get the inverse
